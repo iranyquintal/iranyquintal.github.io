@@ -1,0 +1,45 @@
+h1{
+    font-size: 50px;
+    color: #336a29;
+}
+body{
+    background-color: #E2F2EF;
+}
+li{
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+    color: #336a29;
+}
+iframe{
+    width: 800px;
+    height: 500px;
+    float: right;
+    margin: 10px;
+    margin-top: 400px;
+}
+aside{
+    display: block;
+    margin: auto;
+    float: left;
+}
+ol{
+    border: 5px #cadec8 dotted;
+    margin: 10px;
+}
+#comu{
+    color: #004d40;
+}
+#conta{
+    color: #00695c;
+}
+#tics{
+    color: #98b78a;
+}
+#turismo{
+    color: #26a69a;
+}
+#admi{
+    color: #7ba246;
+}

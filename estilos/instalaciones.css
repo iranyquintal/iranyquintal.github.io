@@ -1,0 +1,23 @@
+body{
+    background-color: #E2F2EF;
+}
+h1{
+    font-size: 50px;
+    color: #56c596;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+iframe{
+    width: 550px;
+    height: 350px;
+    border: none;
+}
+div{
+    display: block;
+    margin: auto;
+    text-align: center;
+}

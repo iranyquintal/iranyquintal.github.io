@@ -1,0 +1,31 @@
+body{
+    background-color: #E2F2EF;
+}
+iframe{
+    width: 500px;
+    height: 300px;
+}
+h1{
+    font-size: 50px;
+    color: #7be495;
+}
+p{
+    font-size: 20px;
+}
+iframe{
+    border: none;
+    display: block;
+    margin: auto;
+}
+div{
+    border: 5px #aadcb6 double;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+#img1{
+    padding-right: 45px;
+}
+#img2{
+    padding-left: 45px;
+}

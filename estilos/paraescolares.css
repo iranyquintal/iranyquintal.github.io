@@ -1,0 +1,28 @@
+h1{
+    font-size: 60px;
+    color: #397d;
+    text-align: center;
+    text-shadow: #73c088 1px 0 10px;
+}
+body{
+    background-color: #E2F2EF;
+}
+aside{
+    display: block;
+    margin: auto;
+    float: right;
+    font-size: 22px;
+    color: #235d3a;
+    border: none;
+    padding: 10px;
+    width: 45%
+}
+img{
+    border: 5px #96c98d dotted;
+    padding: 10px;
+    text-align: center;
+    text-shadow: #73c088 1px 0 10px;
+}
+#imagen1{
+    margin-left: 37.5px;
+}

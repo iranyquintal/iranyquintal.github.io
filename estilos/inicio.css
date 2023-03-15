@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+    color: #397d54;
+    text-shadow: #73c088 1px 0 10px; 
+}
+body{
+    background-color: #E2F2EF
+}
+figure{
+    display: block;
+    float: right;
+    padding: 5px;
+    border: 15px #CFD6ED double;
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}

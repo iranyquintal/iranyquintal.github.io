@@ -1,0 +1,37 @@
+figure{
+    display: block;
+    text-align: center;
+    border: 5px #80adbc dotted;
+    padding: 5px;
+}
+body{
+    background-color: #E2F2EF;
+}
+h1{
+    text-align: center;
+    color: #318284;
+    font-size: 50px;
+}
+div{
+    font-size: 20px;
+    clear: both;
+    display: inline-block;
+    border: 5px #ecdcdc solid;
+    width: 900px;
+    padding: 10px;
+}
+#croquis{
+    display: inline-block;
+    float: right;
+    border: 5px #CAB08B dotted;
+    padding: 10px;
+}
+#foto1{
+    padding-right: 50px;
+}
+#foto3{
+    padding-left: 50px;
+}
+h4{
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
